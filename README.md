@@ -6,7 +6,6 @@ A curated list of engineering blogs of startup and enterprise companies.
 
 ### [Companies](#companies-1)
 
-|     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-companies) | [A](#a-companies) | [B](#b-companies) | [C](#c-companies) | [D](#d-companies) | [E](#e-companies) | [F](#f-companies)  | [G](#g-companies)  | [H](#h-companies)  |
 | [I](#i-companies)  | [J](#j-companies)  | [K](#k-companies)  | [L](#l-companies)  | [M](#m-companies)  | [N](#n-companies)  | [O](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
@@ -14,7 +13,6 @@ A curated list of engineering blogs of startup and enterprise companies.
 
 ### [Individuals/Group Contributors](#individualsgroup-contributors-1)
 
-|    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-individuals)  | [A](#a-individuals)  | [B](#b-individuals)  | [C](#c-individuals)  | [D](#d-individuals)  | [E](#e-individuals)  | [F](#f-individuals)  | [G](#g-individuals)  | [H](#h-individuals)  |
 | [I](#i-individuals)  | [J](#j-individuals)  | [K](#k-individuals)  | [L](#l-individuals)  | [M](#m-individuals)  | [N](#n-individuals)  | [O](#o-individuals)  | [P](#p-individuals)  | [Q](#q-individuals) |
@@ -22,7 +20,6 @@ A curated list of engineering blogs of startup and enterprise companies.
 
 ### [Products/Technologies](#productstechnologies-1)
 
-|    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-technologies)  | [A](#a-technologies)  | [B](#b-technologies)  | [C](#c-technologies)  | [D](#d-technologies)  | [E](#e-technologies)  | [F](#f-technologies)  | [G](#g-technologies)  | [H](#h-technologies)  |
 | [I](#i-technologies)  | [J](#j-technologies)  | [K](#k-technologies)  | [L](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [O](#o-technologies)  | [P](#p-technologies)  | [Q](#q-technologies)  |
